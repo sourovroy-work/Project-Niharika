@@ -1,0 +1,1 @@
+web: gunicorn project_niharika.wsgi --log-file -
