@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Project-Niharika
-=======
 # Project-Niharika
 
 ## Virtual Environment
@@ -25,4 +22,3 @@ Find dependency list(for requirements.txt): `py -m pip freeze`
 Add dependencies in requirements file: `python -m pip freeze > requirements.txt`
 
 Building venv(from requirements.txt): `virtualenv --no-site-packages --distribute .env && source .env/bin/activate && pip install -r requirements.txt`
->>>>>>> dc71842 (Initial commit)
